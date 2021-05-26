@@ -28,3 +28,6 @@ Adding Helm Charts
 
     https://github.com/raftAtGit/hl-fabric-operator
     https://github.com/hyfen-nl/PIVT
+
+    https://github.com/kubernetes/dashboard
+    https://artifacthub.io/packages/helm/k8s-dashboard/kubernetes-dashboard
